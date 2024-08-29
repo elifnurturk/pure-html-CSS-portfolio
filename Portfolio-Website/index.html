@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Yıldıray Türk Şiirleri</title>
+        <link
+            id="favicon"
+            rel="icon"
+            href="favicon.png"
+            type="image/png"
+        >
+        <link
+            id="favicon"
+            rel="icon"
+            href="/assets/img/favicon.png"
+            type="image/png"
+        >
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <script type="module" src="/modules/data.js"></script>
+        <script type="text/javascript" src="/app.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+            integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        >
+    </head>
+    <body>
+        <!----hero Section start---->
+        <section>
+            <div class="hero" id="hero">
+                <nav>
+                    <h2 class="logo">Yıldıray
+                        <span>Türk</span>
+                    </h2>
+                    <ul class="topnav" id="myTopnav">
+                        <li>
+                            <a href="#main">Anasayfa</a>
+                        </li>
+                        <li>
+                            <a href="#about">Hakkımda</a>
+                        </li>
+                        <li>
+                            <a href="#poems">Şiirlerim</a>
+                        </li>
+                        <li>
+                            <a href="#contact">İletişim</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/c/Y%C4%B1ld%C4%B1rayT%C3%BCrk%C5%9Eiirleri" target="_blank" class="button">Youtube Hesabı</a>
+                        </li>
+                    </ul>
+                    <a href="javascript:void(0);" class="icon" onclick="dropNav()">&#9776;</a>
+                </nav>
+                <div class="entry">
+                    <h3>Merhaba, ben</h3>
+                    <h1>Yıldıray
+                        <span>Türk</span>
+                    </h1>
+                    <a class="about-button" href="#about">Devamını gör...</a>
+                </div>
+            </div>
+        </section>
+        <!----About section start---->
+        <section id="about" class="about">
+            <div class="main">
+                <img src="/assets/img/main-img.jpg" alt="profilepic">
+                <div class="about-text">
+                    <h1>Benim
+                        <span>Hakkımda</span>;
+                    </h1>
+                    <p>Yazdığım şiirler genellikle yaşanmışlıklardan feyz alınarak yazılmıştır.
+                        <br>
+                        <em class="red"> Varla yok arasında geçmiş bir hayatın binbir özetidir aslında şiirlerim.</em> Tanımak kolaydır aslında beni, şiirlerimde gösterdim gerçek suretimi...
+                    </p>
+                </div>
+            </div>
+        </section>
+        <!-----service section start----------->
+        <section class="poems" id="poems">
+            <div class="title">
+                <h1>Şiirlerim</h1>
+            </div>
+            <div class="box" id="box"></div>
+            <div id="myModal" class="modal">
+                <div class="modal-content">
+                    <h5 id="modal-title" class="modal-title"></h5>
+                    <span class="close">&times;</span>
+                    <p id="modal-text"></p>
+                </div>
+            </div>
+            <p id="pMore" class="pMore">Daha fazlası için
+                <a class="link" href="https://www.youtube.com/c/Y%C4%B1ld%C4%B1rayT%C3%BCrk%C5%9Eiirleri" target="_blank">Youtube Kanalımı</a> ziyaret edebilirsiniz.
+            </p>
+            <button id="button-poem" class="button" onclick="morePoem();">Devamını Gör</button>
+        </section>
+        <!------Contact Me------>
+        <div class="contact-me" id="contact">
+            <p>Fikirleriniz benim için önemli.</p>
+            <p>Tanıtım ve işbirliği için benimle iletişime geçebilirsiniz.</p>
+            <p>
+                <span>
+                    Yorum yaparak ve paylaşarak destek olmayı unutmayınız.
+                </span>
+            </p>
+            <a class="button" href="https://api.whatsapp.com/send?phone=00905439463492" target="_blank">Bir mesaj bırak</a>
+        </div>
+        <!------footer--------->
+        <footer class="footer">
+            <p class="end1">Yıldıray Türk</p>
+            <p class="end1">Beni youtube kanalımdan ve
+                <br> sosyal medya hesaplarımdan takip edebilir, benimle iletişime geçebilirsiniz.
+            </p>
+            <div class="social">
+                <a href="http://www.instagram.com/yildirayturksiirleri" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="https://www.youtube.com/c/Y%C4%B1ld%C4%B1rayT%C3%BCrk%C5%9Eiirleri" target="_blank">
+                    <i class="fab fa-youtube"></i>
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=00905439463492" target="_blank">
+                    <i class="fab fa-whatsapp"></i>
+                </a>
+            </div>
+            <p class="end">created by Elif Nur TÜRK</p>
+        </footer>
+    </body>
+</html>

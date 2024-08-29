@@ -1,0 +1,301 @@
+[{ 
+"title": "İhanet Sofrası" ,
+"poem": "Ateş olmayan yerden tütüyor dumanlar 
+Herkes padişah olmuş, havada uçuşuyor başıboş fermanlar
+Dostum deyip yüzüme gülen, sadakat treninden inenler var.
+Yeise düştü sahte dostlar, derdimden kaçan dermanlar var.
+
+Hak gitmiş, batıl zahir olmuş; zamanın ahiri mi ne?
+Kalbim Habil olmuş, sevdiklerim Kabil; hançer ellerinde
+Azrail gelse imtina etmem can vermekten de, korkum yaşarken ölmekten.
+İçimde alevsiz yangınlar, gönlümden apansız düşen insanlar var.
+
+Dextler derya olmuş, acımadan geliyor üstüme
+Buyruk verir olmuş bacak kadar bebeler koca beylere
+Hüküm vermiş hakkımda baş tacı yaptığım sultanlar
+İçimde kopan fırtınalar, gözümden düşen insanlar var.
+
+Vurulmuşum, haince yollarıma atılan pusularda
+Ziyafet verir olmuş sahte dostlar ihanet sofralarında
+Yolda bırakmış yoldaşlar, apansız tükenmiş aşklar.
+İçimde kanayan yar, yarama tuz basan insanlar var.
+
+Nedenler var, anlamsız sebepler; hiç yere ödenmiş bedeller
+Gidenler var, içimdeki sevgileri katledip gidenler
+Yıkılmış gönlümdeki hanlar, tarumar olmuş sığındığım bütün limanlar.
+Eriyor gözümde bir mum gibi, güvendiğim dağlar
+İçimde amansız yangınlar, kalbimde zamansız ölen insanlar var.
+
+İçimde ölen insanlar var..." },
+{
+"title": "Bildiğin Gibi Değil",
+
+"poem": "Gördüğün gibi değilim, aldatmasın seni zoraki tebessümlerim /nBoşuna değil sessizliğim, aslında sözün bitiği yerdeyim /nDik duruşum gücümden değil, kaybedecek bir şeyim kalmadığından /nİçimde çığlıklarım feryat figan, kırk yerden kırık bileğim. /n /nGördüğün gibi değilim, aldatmasın seni bakmayı bilmeyen gözlerim
+Orduları dağılmış, savaşı kaybetmiş komutan gibiyim
+Cesaretim, bıktığımdan esaret altında yaşamaktan
+Gemisi batmış kaptan gibiyim, Kurtulan olmamış mürettebattan.
+
+Gördüğün gibi değilim, aldatmasın seni hep yüksekte oluşum
+Yalnız kartal gibiyim, korkmam düşmekten; bir daha kalkamamaktan
+Sakinliğim sabırdan değil, bekleyecek kimsem kalmadığından
+Asırlardır yanıyorum sanki, korkmuyorum artık kül olmaktan.
+
+Gördüğün gibi değilim aldanma, biraz haylaz biraz yaramazım
+Hep çileler içinde geçti yıllarım, ayrılıklarda dopdolu mazim
+Öz güvenim tavan değil, güvenecek kimsem kalmadığından
+Sürüden atılmış kurt gibiyim, korkmuyorum artık yalnız kalmaktan.
+
+Bildiğin gibi değil hiçbir şey, hayır bildiklerimin hepsi oldu şer
+Bir kez düştüm ya dağıldı sevdiklerim, kayboldu üçer beşer
+İnsanoğlu hep böyle, beşer şaşar, kargalar sürüyle; kartallar yalnız uçar
+Unutma umutların şahı yukarıda Allah var.
+
+Unutma umutların şahı yukarıda Allah var."
+},
+{
+"title": "Sensizlik...",
+
+"poem": "Sorma nasıl olduğumu, bilmiyorum nasılım
+Sensiz hem yetim hem öksüzüm sanki
+Ömrüm okyanusun ortasında su lan bir kayık gibi
+Gönlüm hazin bir filmin son sahnesinde.
+Bilmiyorum nasılım.
+Hayallerim darmadağın umutlarım kayıp
+Ne yaptığımı bilmiyorum.
+
+Sensizliği yaşıyorum, yokluğuna alışmaya çalışıyorum
+Arada bir uykuya dalıyor yorgun gözlerim
+Yine sana uyanıyorum.
+Baktığım her yerde sen, nasıl özledim ah bir bilen
+Ne yaptığımı bilmiyorum, sensizliğe alışmaya çalışıyorum.
+
+Dalından düşmüş yaprak gibiyim,
+Rüzgar nereye eserse oraya gidiyor,
+Bazen okyanusun ortasında boğuluyorum
+Bazen yanardağın içine düşüp yokluğunla yanıyorum
+Ne yaptığımı bilmiyorum, sensizliğe alışmaya çalışıyorum.
+
+Seni unutmaya çalışıyorum, uzaklaştıkça senden kayboluyorum.
+Sabahlara kadar sokaklarda dolaşıyor kendimi arıyorum.
+Her köşeden sen çıkıyorsun karşıma
+önce sevinip sonra üzülüyorum
+Gülerken aniden doluyor gözlerim.
+Ne yaptığımı bilmiyorum, sensizliğe alışmaya çalışıyorum
+
+Bazen sabahlara kadar içiyor, bir köşede düşüp kalıyorum.
+Yine sana uyanıyor, halimi görürsen diye korkuyor
+Kendimden utanıyorum.
+Mahçub, utangaç, titrek ellerimi kaldırıyor
+Seni unutmak için daular ediyorum.
+Ne yaptığımı bilmiyorum, sensizliğe alışmaya çalışıyorum"
+
+},
+{
+"title": "Vazgeçtim",
+
+"poem": "Haykırsam duyulmaz feryadım.
+Ya dolu vurdu ya boran, hep başka bahara kaldı umutlarım.
+Vazgeçtim esen rüzgardan, yağmurdan,
+Zamansız yağan kardan, geceme doğmayan aydan,
+Boşa geçen yıllarımdan, sil baştan başlamaktan vazgeçtim.
+
+Kaybettim, karşılamadı zararımı kazandıklarım
+Dağıttım malı mülkü, ne çarşım kaldı ne pazarım.
+Bir gün ölsem kimse bilmez nerede mezarım.
+Vazgeçtim kazanma hırsımdan, kaybetme korkumdan,
+Mal mülk sizin olsun her şeyden vazgeçtim. 
+
+Çağırsam kimse gelmez; kiminin yolu uzun ömrü kısa,
+Kiminin kulağı sağır olur, duymaz seni haykırsan da.
+Kimileri riyakar, kimileri de iyi gün dostudur aslında.
+Vazgeçtim gidip dönmeyeni beklemekten, yalan söz dinlemekten,
+Sahte sevgilerden, böyle dünyayı görmekten vazgeçtim.
+
+Yalvardım el açıp rabbime affet diye
+Sığamadım ben bu koca dünyaya, sitemim sana değil hâşâ.
+İntizarım kullarına, bir yudum mutluluğu çok gördüler bana.
+Vazgeçtim kullarından, iyi günde dost olup zor günümde unutandan,
+Böylesi insanlardan, hayattan vazgeçtim.
+
+Kırıldı içimde heveslerim, kabusa döndü en güzel düşlerim
+Kimine göre macera, kimine göre heyecan,
+Kiminin de yaşam tarzı böyleymiş her zaman.
+Vazgeçtim heveslerimden, düşlerimden, sevdiklerimden,
+Aldığım nefesten, tanıdığım herkesten vazgeçtim.
+
+Anlatsam anlaşılmaz yaşamadan yaşadıklarım
+Ya geç kaldı, ya yarım, ya da imkansızdı aşklarım
+Vazgeçtim sahte dostlardan, kalbimden vuran yardan,
+Yaramdan akan kandan, yaradanın verdiği candan vazgeçtim.
+
+Yaradanın verdiği candan vazgeçtim."
+},
+{
+"title": "Yanıyorum...",
+
+"poem": "Karlar düştü yerlere, yanıyorum soğuk gecelerde bile
+Issızlık çökmüş, bomboş sokaklar
+Sanki herkes pencerelerde.
+Hâlâ kanıyor kalbim, savaştayım hasretinin cenderesinde
+Özlemin ateşten çember, almış ta içine...
+Yanıyorum, yanıyorum yar.
+
+Hayat sensiz yokuşlarda, geçiyor ömür hep telaşlarla
+Düştüm hasret denizine, boğuşuyorum dalgalarla
+Tükenmiş takatim, kalmadı mecalim
+Boğuluyorum sensizlikte.
+Özleminin ateşi sarmış tüm benliğimi...
+Yanıyorum, yanıyorum yar.
+
+Her daim aklımda sözlerin
+Nereye baksam karşımda gözlerin.
+Her yerde izin var, öyle sevmişim ki içimde bitmek bilmeyen sızın var.
+Söz vermiştin, gelecem demiştin bu sonbahar
+Kaç mevsim geçti, bekledim; yakıyor içimi hâlâ közlerin...
+Yanıyorum, yanıyorum yar.
+
+Şimdi sensiz viraneyim, darmadağın olmuş kalbim
+Yıkık harabeyim.
+Kimseyi görmez gözlerim, 
+Bana sen lazımsın, başkasını neyleyeyim.
+Düşmüş gönlüm ateşten denizlere, sensiz yanıyorum
+Yanıyorum yar, yanıyorum
+Yanıyorum yar, yanıyorum..."
+},
+{
+"title":"Söyleyemem",
+"poem": "Söyleyemem seni nasıl sevdiğimi
+Anlatamam, konuşmaz dil utanır.
+İçimdeki sevgiyi yaşamayan anlayamaz
+Anlasa kıskanır sevgimi, aşk utanır.
+
+Kıskanır gönlüm seni gözümden
+Söyleyemem, dilden çıkan söz utanır.
+Bilse senin için yaşadığımı hayat, 
+Aşkı için dağları delen Ferhat utanır.
+
+Söyleyemem sana olan özlemimi
+Yağmura hasret kalan kuru toprak utanır.
+Kıskanır gözlerini mercanlar,
+Sana benzemeye çalışan aynalar utanır.
+
+Seni nasıl sevdiğimi bilse Leyla kahrolur
+İçimdeki aşkı görse çölleri aşan Mecnun utanır.
+Söyleyemem içimdeki yangını,
+İbrahim'in atıldığı ateş utanır.
+
+Anlatsam nur gibi ışık saçan gözlerini
+Kainatı ışıtan güneş utanır.
+Söyleyemem içimde kaynayan volkanları
+Anlatsam Aslı için yanan Kerem utanır.
+
+Söyleyemem seni semenin bedelini
+Senin için yaşayan beden utanır.
+Senin için yaşayan can utanır..."},
+
+{
+"title": "Babam",
+
+"poem": "Koptu içimde zamansız fırtınalar apansız aman aman
+Her derdime derman babam, sığındığım tek liman
+Kırılır içimdeki yaşama dair son heyecan
+Gitme babam, yıkılır dağlarım, kahrolur kaybolurum, senden sonrası hezeyan
+Ziyan olurum babam ziyan.
+
+Seni mi buldu hastalık illeti, sen hepimizi korur kollardın
+Kime devrettin nöbeti?
+Her şeyimdin babam, sensiz neyleyim şanı şöhreti
+Hiçbir şeyde gözüm yok; alsınlar elimden her şeyi, sırtımdaki ceketi
+Gitme babam, sen yoksan neyleyim malı serveti.
+
+Sensiz bomboş gelir sofralar, dostların hiç durmaksızın seni sorarlar
+Sığamam, sensiz dar gelir şehirler sokaklar.
+Gitme babam solar içimdeki umutlar baharlar
+Ateş düştüğü yeri yakar babam, yüreğimde sönmez yangınlar.
+
+Sararıp solar babam, dökülür diktiğin ağaçlardaki yapraklar.
+Ben sana doyamadım, nasıl doyacak kara topraklar
+Kızma babam, benimkisi ne sitem ne isyan
+Sana doyamam babam.
+
+Sana doyamadım babam."
+},
+
+{
+"title": "Gitme Kal",
+
+"poem": "Sil gözlerinden beni sen de, sök at kalmasın sevgim içinde
+Mutlu edemedim ya hani seni ben de, farz et hiç tanımadım say
+Darmadağın olacağımı bilsem de, parmağından yüzüğü çıkart at
+Unut suretimi, cismimi, hatta ismimi
+Adım kalmasın dilinde, yaşanan her şeyi yok say
+Ya da bırakma gitme kal.
+
+Yeniden başla, sil baştan
+Sakın kimseye bahsetme sen bu aşktan
+Vazgeç sen de yaşanmışlardan, hatta vazgeç daha yaşanacaklardan
+Farz et gözünde bir damla yaşım, korkma sakın ağlamaktan
+Yaşamadım, öldüm, hatta hiç doğmadım say
+Korkma ayrılmaktan
+Ya da aldığın bütün kararlardan cay, sen yine de gitme kal.
+
+Hasret dediğin nedir ki; soğuk kışlar, sıcak yazlar
+İçinde bitmek bilmeyen çığlıklar, kapkara yalnızlıklar
+Sen en iyisi hasreti de özlemi de yok say
+Farz et gökyüzünde yıldızdım, kaydım
+Hiç yaşamadım, öldüm, hatta hiç doğmadım say
+Ya da vazgeç ihtiraslarından sen yine de gitme kal.
+
+Beraber gülmedik, ağlamadık, beraber üşüyüp ıslanmadık
+Aynı yastığa baş koymadık ve aynı düşü görmedik say
+Sana dair ne varsa içimde sök al,
+Bir rüyadan uyandık, hiç tanımadım, sevmedim, sevilmedim say
+Senin için öldüm, yaşamadım, hatta hiç doğmadım say
+Ya da uyan gaflet uykusundan, sen yine de gitme kal."
+},
+{
+"title": "İsyan",
+
+"poem": "Baktığım her yerde sen varsın, suretin hep karşımda.
+Kimi görsem sen zannediyorum sessizce yaklaşıp bakınca...
+Sağımda hayalin, solumda hasretin; nöbetteyim gecenin koynunda
+Görmüyor senden başka gözler, bakışlar isyanda.
+
+Duvarlar geliyor üstüme, gönlüme işkence var aşklar sorguda,
+Tutunacak hiçbir dalım yok, samimi ikrar yazıyor savunmada.
+Adından başka söz çıkmadı son sözüm sorulduğunda,
+Kelimeler çıkmıyor dilden sözler isyanda.
+
+Kafamı kaldırıp baktığımda suretin var semada,
+Kaybolmuşum kendi karanlığımda, ne bir ışık ne bir umut var ufuklarda
+Alabora olmuş gönlüm, ne bir fener ne bir liman var ortalıklarda.
+Umutlar firar etmiş çareler isyanda.
+
+Silinmiş gözlerine yazdığım şiirler, sensiz bomboş gönlümde şehirler
+Ağır yaralı sevgiler bilinç kapalı, akıl komada.
+Seni sensiz yaşamaya çalışıyor ruhum anılarda
+Beden iflas etmiş, sevdalar isyanda.
+
+Hiç takatim kalmamış, her şeyin bittiği yerdeyim aslında
+Sona gelmiş ömür uçurumun kıyısında.
+Vazgeçtim sensiz yaşanacaklardan, hayattan da
+Can bedenden çıkmak istiyor, ruhum isyanda..."
+},
+
+{
+"title": "Git", 
+"poem": "Hadi git şimdi, senin olsun yazlarım, benim olsun kışların
+Git ama aynı bakma hiç kimseye, bende kalsın donuk bakışların
+Artık kimseyle konuşma tutulsun benden sonra dilin
+Ve kimsenin baharında açma bende kaldın bütün iklimlerin
+
+Hadi git şimdi, sende kalsın ışığım, bende kalsın kapkara yalnızlığın
+Git ne yüzüm kalsın ne sözüm, bensizliğe nasıl olsa alışırsın be iki gözüm
+Git, adını koyamadın sen bu aşkın ve mimarı oldun sebepsiz ayrılığın
+Git ama kimseyi ısıtmasın varlığın, bende kalsın bütün sıcaklığın
+
+Hadi git şimdi, sende kalsın düşlerim bende kalsın en masum gülüşlerin
+Git şimdi ama kimseyle aynı konuşma hiç kimseye deva olmasın sesin
+Batmasın artık kalbime göğüs kafesim ve hiç kimse seni böyle sevmesin
+Git artık, ne hissim kaldı ne hevesim sende kalsın son nefesim."
+}]

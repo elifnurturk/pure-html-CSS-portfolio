@@ -1,0 +1,507 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Josefin Sans', sans-serif;
+	box-sizing: border-box;
+}
+body{
+	background-color: #a4a399;
+}
+.hero{
+	height: 100vh;
+	width: 100%;
+	background-image: url(../assets/img/background.JPG);
+	background-size: cover;
+	background-position: center;
+}
+nav{
+	display: flex;
+	align-items: right;
+	justify-content: space-between;
+	padding-top: 45px;
+	padding-left: 8%;
+	padding-right: 8%;
+}
+.logo{
+	color: rgb(68, 66, 66);
+	font-size: 2.5vw;
+	letter-spacing: 1px;
+	cursor: pointer;
+	padding: 15px 10px ;
+}
+span{
+	color: #f9004d;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px  25px;
+	overflow: hidden;
+}
+nav ul li a{
+	color: rgb(68, 66, 66);;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+nav ul li a:hover{
+	color: #f9004d;
+	transition: .4s;
+}
+.icon {
+	display: none;
+	color: #101010;
+	padding-top: 35px;
+	padding-right: 2%;
+	size: 30px;
+	font-size: 25px;
+	text-decoration: none;
+}
+.btn{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 10px 25px;
+	border-radius: 30px;
+}
+.btn:hover{
+	transform: scale(1.2);
+	color: white;
+}
+.entry{
+	width: 50%;
+	float: left;
+	padding: 10% 10%;
+    justify-content: space-around;
+	position: absolute;
+}
+.about-button{
+	margin: 10% 20%;
+	font-size: 1.5vw;
+	color: black;
+	text-decoration: none;
+	padding-top: 500px;
+}
+.about-button:hover{
+	font-size: 1.6vw;
+	cursor: pointer;
+}
+h1{
+	color: black;
+	font-size: 4vw;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+h3{
+	margin: 20px 0 20px 0;
+	color: black;
+	font-size: 1.5vw;
+}
+h4{
+	color: black;
+	letter-spacing: 2px;
+	font-size: 1.3vw;
+}
+.about{
+	width: 100%;
+	background-color: #a4a399;
+	padding: 5% 5% 5% 15%;
+	align-items: center;
+}
+.about img{
+	max-width: 35%;
+	min-width: 20%;
+	border: 2px solid transparent;
+	border-radius: 50px;
+}
+.about-text{
+	width: 55%;
+	margin: 60px 0;
+	align-items: right;
+	padding: 0 5%;
+}
+.red{
+	color: #a23a5b;
+}
+.main{
+	max-width: 100%;
+	display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+	align-items: center;
+}
+.about-text p{
+	color: rgba(0, 0, 0, 0.8);
+	letter-spacing: 1px;
+	font-size: 1.2vw;
+	line-height: 28px;
+	margin-bottom: 45px;
+}
+.button{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s; 
+	font-size: 1.2;
+}
+button:hover{
+	background-color: transparent;
+	border: 2px solid red;
+	cursor: pointer;
+}
+.poems{
+	background-color: #a4a399;
+	text-align: right;
+	padding: 4% 15% 7%;
+}
+.box{
+	display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+	align-items: center;
+	padding: 3% 0px 0;
+	text-align: left;
+	height: 340px;
+    overflow: hidden;
+}
+.pMore{
+	padding: 2%;
+}
+.link{
+	text-decoration: none;
+	color: red;
+}
+.card{
+	max-width: 30%;
+	min-width: 250px;
+	padding: 25px 10px 10px;
+	background: #191919;
+	border-radius: 20px;
+	margin: 15px;
+	overflow: hidden;
+}
+.button-poem{
+	padding: 5%;
+}
+h5{
+	color: white;
+	font-size: 1.5vw;
+	margin-bottom: 15px;
+}
+.content{
+	color: white;
+	font-size: 0.9vw;
+	line-height: 27px;
+	margin-bottom: 25px;
+	display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+}
+.card .button{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 9px 22px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.card .button:hover{
+	background-color: transparent;
+	border: 2px solid #f9004d;
+	cursor: pointer;
+}
+.contact-me{
+	width: 100%;
+	height: 290px;
+	background: #a4a399;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	padding: 12% 0;
+}
+.contact-me p{
+	color: black;
+	font-size: 1.9vw;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.contact-me .button-two{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.contact-me .button-two:hover{
+	background-color: transparent;
+	border: 2px solid #f9004d;
+	cursor: pointer;
+}
+footer{
+	position: relative;
+	width: 100%;
+	height: 350px;
+	background: #101010;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+footer p:nth-child(1){
+	font-size: 1.9vw;
+	color: white;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+footer p:nth-child(2){
+	color: white;
+	font-size: 1vw;
+	width: 500px;
+	text-align: center;
+	line-height: 26px;
+}
+.social{
+	display: flex;
+}
+.social a{
+	width: 45px;
+	height: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background:  #f9004d;
+	border-radius: 50%;
+	margin: 22px 10px;
+	color: white;
+	text-decoration: none;
+	font-size: 1.25vw;
+}
+.social a:hover{
+	transform: scale(1.3);
+	transition: .3s;
+}
+.end{
+	position: absolute;
+	color:#f9004d;
+	bottom: 35px;
+	font-size: 0.9vw; 
+}
+::-webkit-scrollbar-corner { background: #a4a399;}
+
+    * {
+        scrollbar-width: thin;
+        scrollbar-color:  rgba(255, 255, 255, 0.5) #191919;
+    }
+
+    /* Works on Chrome, Edge, and Safari */
+    *::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+    }
+
+    *::-webkit-scrollbar-track {
+        background: #a4a399;
+    }
+
+    *::-webkit-scrollbar-thumb {
+        background-color:   rgba(39, 30, 30, 0.885);
+        border-radius: 20px;
+        border: 3px solid #a4a399;
+    }
+	@media screen and (max-width: 600px) {
+		*{
+		overflow-x:hidden;
+		}
+		.topnav li{
+		  display: none;
+		}
+		.icon {
+		  float: right;
+		  display: block;
+		  color: #101010;		}
+		.box {
+			padding-left: 25px;
+			padding-top: 0;
+		}
+		.main {
+			display: block;
+			width: 100%;
+			margin: 0;
+		}
+		.pra p{
+			font-size: 5vw;
+		} 
+		.pra a{
+			overflow-x: visible;
+		}
+		.main img{
+			margin-left: 30%;
+			width: 100%;
+		}
+		.hero {
+			height: 130vw;
+		}
+		.button {
+			font-size: 2vw;
+			margin-top: 5px;
+			overflow-x: visible;
+		}
+		.about {
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-bottom: 0;
+			padding-top: 60px;
+		}
+		.about-text {
+			width: 100%;
+			margin-top: 5%;
+		}
+		.about-text p{
+			font-size: 2.5vw;
+		}
+		.about-button {
+			font-size: 2.5vw;
+		}
+		.about-button:hover {
+			font-size: 2.5vw;
+		}
+		.content {
+			font-size: 2vw;
+		}
+		  .modal-title {
+			font-size: 3vw;
+		  }
+		  .card {
+			overflow: hidden;
+			width: 50%;
+			margin-bottom: 15%;
+		}
+		  .pra p {
+			font-size: 2vw;
+			margin-right: 45px;
+		  }
+		  .card h5 {
+			font-size: 2.5vw;
+		  }
+		  .pMore {
+			font-size: 2.5vw;
+		  }
+		  .logo {
+			font-size: 5vw;
+		  }
+		  h3 {
+			font-size: 3vw;
+		  }
+		  .contact-me p{
+			font-size: 2.7vw;
+		  }
+		  .social a {
+			font-size: 3vw;
+		  }
+		  .poems{
+			width: 100%;
+		  }
+		  .box{
+			padding-left: 0;
+		  }
+		  .end {
+			font-size: 2vw;
+		  }
+		  .footer {
+			width: 100%;
+			padding: 0;
+		  }
+		  .modal-content {
+			font-size: 2.5vw;
+			margin: 0; /* 15% from the top and centered */
+			padding: 5px 10px;
+			width: 80vw; /* Could be more or less, depending on screen size */
+		  }
+	  }
+	  
+	  @media screen and (max-width: 600px) {
+		.topnav.responsive {
+		  position: relative;
+		  background-color: #a4a399;
+		  border-radius: 20px;
+		  background: rgba(171, 203, 237, 0.4);
+		  padding: 15px 1px 10px 1px;
+		  font-size: 1.5vh;
+		}
+		.icon {
+		  position: absolute;
+		  right: 0;
+		  top: 0;
+		  padding: 45px 50px;
+
+		}
+		.icon:hover {
+			position: absolute;
+			color: red;
+			cursor: pointer;
+			font-size: 28px;
+		  }
+		.topnav.responsive li {
+		  float: none;
+		  display: block;
+		  text-align: left;
+		  padding: 13px;
+		}
+		
+	  }
+
+	  .modal {
+		display: none; /* Hidden by default */
+		position: fixed; /* Stay in place */
+		z-index: 1; /* Sit on top */
+		left: 0;
+		top: 0;
+		width: 100%; /* Full width */
+		height: 100%; /* Full height */
+		overflow: auto; /* Enable scroll if needed */
+		background-color: rgba(0,0,0,0.4); /* Black background with opacity */
+	  }
+	  
+	  .modal-content {
+		align-content: center;
+		background-color: #a4a399;
+		margin: 15% auto; /* 15% from the top and centered */
+		padding: 20px 40px;
+		border: 1px solid #888;
+		width: 50%; /* Could be more or less, depending on screen size */
+		align-items: center;
+		text-align: left;
+	  }
+	  .modal-title {
+		color: #101010;
+		padding: 10px;
+		border: 1px solid #888;
+	  }
+	  .close {
+		color: red;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	  }
+	  
+	  .close:hover,
+	  .close:focus {
+		color: black;
+		text-decoration: none;
+		cursor: pointer;
+	  }
+	  
